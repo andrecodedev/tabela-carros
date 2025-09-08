@@ -30,7 +30,7 @@ A proposta é criar um arquivo chamado **`tabela.html`** que contenha uma tabela
 ---
 
 ## 📂 Estrutura de Pastas 
-
+```
 projeto-tabela-carros/
 ├── html/
 │ └── tabela.html
@@ -46,7 +46,7 @@ projeto-tabela-carros/
 │ ├── previa_readme.jpg
 │ └── lancer.jpg
 └── README.md
-
+```
 
 ---
 
