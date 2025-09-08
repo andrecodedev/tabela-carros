@@ -72,7 +72,7 @@ Durante a construção deste projeto, foram aplicados e compreendidos os seguint
 
 > *Exemplo de visualização da tabela com imagens*  
 
-![Screenshot da Tabela](img/previa_readme.png)
+![Screenshot da Tabela](img/previa_readme.jpg)
 
 ---
 
